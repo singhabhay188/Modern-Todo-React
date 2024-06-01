@@ -1,0 +1,11 @@
+/* Style for the selected checkbox */
+.tag input[type="radio"]:checked + span {
+    background-color: #ffd33c;
+    color: #4f4f4f;
+}
+
+/* Style for the label text */
+.tag {
+    font-size: 16px;
+    color: #333;
+}
