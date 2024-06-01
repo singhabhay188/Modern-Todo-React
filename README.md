@@ -1,6 +1,16 @@
 # TO-DO LIST
-## Develop a basic to-do app that enables a user to add daily tasks. The to-do web app must allow users to add new items to a list, and items added to a list must be visible. Also, a user can mark a task "complete" upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks. To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
 
+## Task Given:
+### Develop a basic to-do app that enables a user to add daily tasks. The to-do web app must allow users to add new items to a list, and items added to a list must be visible. Also, a user can mark a task "complete" upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks. To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
+
+## Task Done:
+### task management application using React 
+Key features include:
+✅ Adding new tasks with descriptions
+📝 Viewing task details
+🔍 Marking tasks as done or undone
+🗑️ Deleting tasks when no longer needed
+Built with React and styled with modern design principles, this application offers a seamless user experience and enhances productivity.
 
 ## &emsp; Screen shot 1
 
